@@ -1,4 +1,4 @@
-# Desarrollo de Interfaces: JavaScript, jQuery, Realidad Virtual - OnLine 🌐
+# Desarrollo de Interfaces: JavaScript, jQuery, Realidad Virtual 🌐
 
 Este repositorio contiene una colección de ejercicios y proyectos realizados durante el curso de Desarrollo de Interfaces. Los ejercicios están enfocados en la creación de interfaces interactivas utilizando **JavaScript**, **jQuery** y la integración de elementos de **realidad virtual** en aplicaciones web.
 
