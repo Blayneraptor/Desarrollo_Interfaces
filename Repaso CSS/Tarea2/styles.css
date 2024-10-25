@@ -1,0 +1,55 @@
+/* Estilos base para los párrafos */
+.paragraph {
+    color: red;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+
+
+/* Primer párrafo: negrita y cursiva */
+.paragraph1 {
+    font-weight: bold;
+    font-style: italic;
+    background-color: yellow; /* Resaltar fondo */
+    border: 2px solid red; /* Borde rojo */
+    padding: 5px;
+}
+
+/* Segundo párrafo: texto subrayado */
+.paragraph2 {
+    background-color: lightyellow;
+    border: 2px solid green;
+    padding: 5px;
+}
+
+/* Tercer párrafo: cursiva */
+.paragraph3 {
+    background-color: lightpink;
+    border: 2px solid blue;
+    padding: 5px;
+}
+
+/* Estilo adicional para los enlaces de texto resaltado en negrita */
+.strong-text {
+    font-weight: bold;
+    background-color: lightgray; /* Fondo de resaltado gris */
+}
+
+.emphasized-text {
+    font-style: italic;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.border-box {
+    border: 2px solid #FF00FF; /* Borde magenta */
+    padding: 5px;
+}
+
