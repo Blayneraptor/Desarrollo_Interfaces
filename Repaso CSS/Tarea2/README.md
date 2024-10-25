@@ -1,1 +1,1 @@
-![Tarea2]Captura.JPG
+![Tarea2](./Captura.JPG)
