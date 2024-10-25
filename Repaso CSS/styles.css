@@ -1,0 +1,19 @@
+.paragraph {
+    color: red;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.paragraph1:hover {
+    color: green;
+}
+
+
+.paragraph2:hover {
+    font-size: 20px;
+}
+
+
+.paragraph3:hover {
+    font-style: italic;
+}
