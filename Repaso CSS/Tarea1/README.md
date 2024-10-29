@@ -15,9 +15,11 @@
    Donec purus ipsum, posuere id, venenatis at, placerat ac, lorem. Curabitur blandit, eros sed gravida aliquet.  
    Sed tempus nunc vitae neque.  
    Ultrices aliquet augue. Donec arcu pede, pretium vitae, rutrum aliquet, tincidunt blandit, pede.  
+   
 
    • Aplicar hover a los tres primeros párrafos, los que aparecen en color rojo  
      o El primer párrafo cuando recibe el cursor, aparece en verde  
      o El segundo párrafo, se modifica su tamaño  
      o El tercer párrafo el texto aparece en cursiva.  
    • Todos los elementos contenedores se diseñan con etiquetas `div`.
+

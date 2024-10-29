@@ -1,0 +1,5 @@
+{
+    "git-automator.autoCommit": true,
+    "git-automator.autoPush": true,
+    "git-automator.commitMessage": "Auto commit on change"
+}
