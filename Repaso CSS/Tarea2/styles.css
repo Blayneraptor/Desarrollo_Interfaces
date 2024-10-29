@@ -4,14 +4,11 @@
     margin-bottom: 15px;
 }
 
-
-
 .paragraph1 {
     font-size: 20px;
     font-weight: bold;
     padding: 5px;
 }
-
 
 .paragraph2 {
     font-size: 13px;
@@ -94,4 +91,28 @@
 
 .volutpat {
     color: rgb(54, 15, 15)
+}
+
+.fondogris {
+    border-top: black solid 2px;
+    border-right: black solid 0px;
+    border-left: black solid 1px;
+    border-bottom: black solid 0px;
+    background-color: rgb(182, 174, 174);
+    padding: 20px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+
+}
+
+.bordeipsum {
+    border-top: black solid 1px;
+    border-right: black solid 0px;
+    border-left: black solid 1px;
+    padding: 20px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+
+
+
 }
