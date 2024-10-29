@@ -1,10 +1,9 @@
 /* Estilos base para los párrafos */
 .paragraph {
-    color: red;
+    color: RED;
     font-size: 16px;
     margin-bottom: 15px;
 }
-
 
 
 /* Primer párrafo: negrita y cursiva */
