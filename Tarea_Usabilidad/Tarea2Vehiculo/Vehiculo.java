@@ -1,7 +1,5 @@
 package Tarea_Usabilidad.Tarea2Vehiculo;
 
-
-
 // Clase Vehículo
 class Vehiculo {
     private String matricula;
