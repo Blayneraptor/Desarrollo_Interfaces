@@ -1,0 +1,4 @@
+## Confeccionar una clase Persona que tenga como atributos el nombre, apellidos y la edad. Definir varios constructores (todos los posibles), getters y setters para cargar los datos personales y que los imprima.
+## Plantear una segunda clase Empleado que herede de la clase Persona. Añadir los atributos sueldo, comisión y los métodos para cargar el sueldo y la comisión e imprimir su sueldo, comisión. También tendremos un método donde me calcule el total cobrado, tendremos que controlar que el sueldo y comisión sean mayor de cero. Definir todos los constructores posibles y los get y set.
+
+## En la clase principal vamos a definir 4 objetos de la clase Persona y llamar a sus métodos. También crear 5 objetos de la clase Empleado y llamar a sus métodos.
