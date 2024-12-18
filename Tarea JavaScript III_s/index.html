@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de destinos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>¿Quieres jugar con JavaScript?</h1>
+    <button onclick="startGame('si')">Sí</button>
+    <button onclick="startGame('no')">No</button>
+
+    <div id="message"></div>
+    
+    <!-- Pregunta sobre el destino -->
+    <div id="destino" class="hidden">
+        <h2>¿Elige un destino: Francia, España, Portugal?</h2>
+        <button onclick="chooseDestination('francia')">Francia</button>
+        <button onclick="chooseDestination('españa')">España</button>
+        <button onclick="chooseDestination('portugal')">Portugal</button>
+    </div>
+    
+    <!-- Francia -->
+    <div id="francia" class="hidden">
+        <h2>¿París, Marsella o Lyon?</h2>
+        <button onclick="chooseCity('paris')">París</button>
+        <button onclick="chooseCity('marsella')">Marsella</button>
+        <button onclick="chooseCity('lyon')">Lyon</button>
+    </div>
+
+    <!-- Ciudad de Francia -->
+    <div id="paris" class="hidden">
+        <p>París es la capital de Francia, conocida por su Torre Eiffel, el Louvre y su ambiente romántico.</p>
+        <div class="image-gallery">
+            <img src="images/paris1.jpg" alt="París 1">
+            <img src="images/paris2.jpg" alt="París 2">
+            <img src="images/paris3.jpg" alt="París 3">
+        </div>
+        <h3>¿Playa o montaña?</h3>
+        <button onclick="chooseNature('playa')">Playa</button>
+        <button onclick="chooseNature('montaña')">Montaña</button>
+    </div>
+
+    <div id="marsella" class="hidden">
+        <p>Marsella es una ciudad portuaria famosa por su puerto antiguo, el Barrio del Panier y la Basílica de Notre-Dame de la Garde.</p>
+        <div class="image-gallery">
+            <img src="images/marsella1.jpg" alt="Marsella 1">
+            <img src="images/marsella2.jpg" alt="Marsella 2">
+            <img src="images/marsella3.jpg" alt="Marsella 3">
+        </div>
+        <h3>¿Playa o montaña?</h3>
+        <button onclick="chooseNature('playa')">Playa</button>
+        <button onclick="chooseNature('montaña')">Montaña</button>
+    </div>
+
+    <div id="lyon" class="hidden">
+        <p>Lyon es una ciudad francesa conocida por su gastronomía, su patrimonio histórico y su distrito de la Croix-Rousse.</p>
+        <div class="image-gallery">
+            <img src="images/lyon1.jpg" alt="Lyon 1">
+            <img src="images/lyon2.jpg" alt="Lyon 2">
+            <img src="images/lyon3.jpg" alt="Lyon 3">
+        </div>
+        <h3>¿Playa o montaña?</h3>
+        <button onclick="chooseNature('playa')">Playa</button>
+        <button onclick="chooseNature('montaña')">Montaña</button>
+    </div>
+
+    <!-- España -->
+    <div id="españa" class="hidden">
+        <p>España es famosa por su cultura vibrante, sus playas, su gastronomía y sus monumentos históricos.</p>
+        <button onclick="chooseSpain('playa')">Playa</button>
+        <button onclick="chooseSpain('montaña')">Montaña</button>
+    </div>
+
+    <!-- Portugal -->
+    <div id="portugal" class="hidden">
+        <h2>¿Turismo, playa o montaña?</h2>
+        <button onclick="choosePortugal('turismo')">Turismo</button>
+        <button onclick="choosePortugal('playa')">Playa</button>
+        <button onclick="choosePortugal('montaña')">Montaña</button>
+    </div>
+
+    <!-- Mostrar mensaje final -->
+    <div id="finalMessage" class="hidden"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
