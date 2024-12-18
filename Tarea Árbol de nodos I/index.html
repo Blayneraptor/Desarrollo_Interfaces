@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú del Día</title>
+    <link rel="stylesheet" href="menu.css">
+</head>
+<body>
+    <div class="menu-container">
+        <h1>Menú del Día</h1>
+        <div class="menu-item">
+            <label for="primer-plato">Primer Plato:</label>
+            <select id="primer-plato">
+                <option value="" data-image="kitchen-tools.jpg">Seleccione un plato...</option>
+                <option value="8" data-image="lentejas.jpg">Lentejas (8€)</option>
+                <option value="7" data-image="ensalada.jpg">Ensalada (7€)</option>
+                <option value="9" data-image="sopa.jpg">Sopa (9€)</option>
+            </select>
+            <img id="image-primer-plato" src="kitchen-tools.jpg" alt="Herramientas de cocina" />
+        </div>
+        <div class="menu-item">
+            <label for="segundo-plato">Segundo Plato:</label>
+            <select id="segundo-plato">
+                <option value="" data-image="kitchen-tools.jpg">Seleccione un plato...</option>
+                <option value="12" data-image="pollo.jpg">Pollo Asado (12€)</option>
+                <option value="15" data-image="pescado.jpg">Pescado (15€)</option>
+                <option value="10" data-image="vegetales.jpg">Vegetales (10€)</option>
+            </select>
+            <img id="image-segundo-plato" src="kitchen-tools.jpg" alt="Herramientas de cocina" />
+        </div>
+        <div class="menu-item">
+            <label for="postre">Postre:</label>
+            <select id="postre">
+                <option value="" data-image="kitchen-tools.jpg">Seleccione un postre...</option>
+                <option value="5" data-image="flan.jpg">Flan (5€)</option>
+                <option value="4" data-image="helado.jpg">Helado (4€)</option>
+                <option value="6" data-image="pastel.jpg">Pastel (6€)</option>
+            </select>
+            <img id="image-postre" src="kitchen-tools.jpg" alt="Herramientas de cocina" />
+        </div>
+        <div class="discount">
+            <input type="checkbox" id="descuento">
+            <label for="descuento">Aplicar 10% de descuento</label>
+        </div>
+        <button id="pedir">PEDIR COMIDA</button>
+    </div>
+    <script src="menu.js"></script>
+</body>
+</html>
