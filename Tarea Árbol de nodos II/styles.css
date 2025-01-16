@@ -1,0 +1,36 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#image-container {
+    margin-top: 30px;
+    max-width: 1200px;  /* Aumentamos el tamaño máximo del contenedor de la imagen */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%; /* Ajustamos el ancho de la imagen al 100% del contenedor */
+    max-width: 1200px; /* Aumentamos el tamaño máximo de la imagen */
+    height: auto; /* Mantener la proporción original */
+}
