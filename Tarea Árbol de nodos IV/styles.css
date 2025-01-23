@@ -1,0 +1,23 @@
+.image-viewer {
+    text-align: center;
+  }
+  
+  .main-image {
+    max-width: 100%; /* Permite que la imagen se ajuste al ancho del contenedor */
+    height: 900px; /* Establece una altura fija para la imagen principal */
+    object-fit: contain; /* Mantiene las proporciones y evita recortes */
+  }
+  
+  .thumbnails {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .thumbnail {
+    width: 250px;
+    height: 150px;
+    margin: 5px;
+    cursor: pointer;
+    object-fit: cover;
+  }
