@@ -1,4 +1,1 @@
-# Visor de nodos
-
-![imagenreadme](images/readme/imagenreadme.png)
-
+![1737638028477](image/readme/1737638028477.png)
