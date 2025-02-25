@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro titulo="El manuscrito encontrado en Zaragoza" autor="Jan Potocki" año="1805" />
+    <libro titulo="Del asesinato considerado como una de las bellas artes" autor="Thomas de Quincey" año="1827" />
+    <libro titulo="El fabricante de honradez" autor="Santiago Ramón y Cajal" año="1905" />
+</libros>

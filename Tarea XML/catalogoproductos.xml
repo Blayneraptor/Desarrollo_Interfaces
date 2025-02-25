@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <producto>
+        <nombre>Samsung Galaxy S25 Edge</nombre>
+        <descripcion>Smartphone ultradelgado con pantalla curva y alto rendimiento</descripcion>
+        <precio>999.99</precio>
+        <caracteristicas>
+            <caracteristica nombre="Pantalla">6.7 pulgadas OLED</caracteristica>
+            <caracteristica nombre="Procesador">Snapdragon 8 Elite</caracteristica>
+            <caracteristica nombre="Memoria">12GB RAM - 256GB Almacenamiento</caracteristica>
+            <caracteristica nombre="Cámara">200 MP principal</caracteristica>
+            <caracteristica nombre="Batería">4000 mAh</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Oppo Reno 13 Pro 5G</nombre>
+        <descripcion>Teléfono inteligente resistente al agua con avanzadas funciones de IA</descripcion>
+        <precio>1299.99</precio>
+        <caracteristicas>
+            <caracteristica nombre="Pantalla">6.6 pulgadas con 1600 nits de brillo</caracteristica>
+            <caracteristica nombre="Procesador">Mediatek Dimensity 8350</caracteristica>
+            <caracteristica nombre="Memoria">12GB RAM - 256GB Almacenamiento</caracteristica>
+            <caracteristica nombre="Cámara">Funciones mejoradas por IA</caracteristica>
+            <caracteristica nombre="Batería">5800 mAh con carga rápida de 80W</caracteristica>
+            <caracteristica nombre="Resistencia al agua">Hasta 2 metros por 30 minutos</caracteristica>
+        </caracteristicas>
+    </producto>
+</catalogo>
