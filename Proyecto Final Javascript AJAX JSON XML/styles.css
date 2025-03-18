@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Alinea los contenedores */
+    gap: 20px; /* Espacio reducido entre signos y detalles */
+    margin-top: 20px;
+}
+
+/* Horóscopo occidental */
+.signos-container {
+    width: 30%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    justify-items: center;
+    align-items: center;
+}
+
+.signo {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.signo img {
+    width: 50px;
+    margin-bottom: 5px;
+}
+
+.signo .nombre {
+    font-weight: bold;
+}
+
+.signo .fecha {
+    display: block;
+    margin-top: 2px;
+}
+
+/* Detalles del signo */
+.detalles {
+    width: 30%;
+    /* Se puede ajustar para lograr un contenedor más estrecho */
+    justify-items: start;
+}
+
+.detalle-contenido {
+    display: flex;
+    flex-direction: column; /* Ahora se gestiona desde CSS en vez de inline */
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.detalle-imagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.detalle-imagen img {
+    width: 100px;
+    margin-top: 40px;
+}
+
+.detalle-imagen .fecha {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+.detalle-textos {
+    text-align: left;
+}
+/* Estilos para el título del Horóscopo Chino */
+.chino-titulo {
+    text-align: left; /* Alineación a la izquierda */
+    margin-left: 360px; /* Elimina el margen izquierdo */
+}
+
+/* Estilos para la tabla del Horóscopo Chino */
+.chino-table {
+    margin: 0; /* Elimina el margen auto para centrar */
+    border-collapse: collapse; /* Asegura que los bordes se vean correctamente */
+    border: 1px solid #ccc; /* Borde gris para la tabla */
+    margin-left: 360px; /* Elimina el margen izquierdo */
+}
+
+.chino-table td {
+    text-align: center;
+    padding: 10px; /* Más espacio en cada celda */
+    border: 1px solid #ccc; /* Bordes grises entre las celdas */
+}
+
+.chino-table img {
+    width: 70px;
+    margin: 10px; /* Aumenta el espacio entre imágenes */
+}
+
+/* Estilos para la sección de preguntas del horóscopo */
+.horoscope-query {
+    text-align: left;
+    margin: 60px auto; /* Centrar el contenedor */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 60%; /* Ajustar el ancho para centrar mejor */
+}
+
+.horoscope-query p {
+    margin: 10px 0;
+    
+}
+
+.horoscope-query label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.horoscope-query input[type="date"] {
+    margin-bottom: 10px;
+    
+}

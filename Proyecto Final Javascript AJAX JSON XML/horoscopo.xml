@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horoscopo>
+    <signo nombre="Aries" fecha="21/03 - 19/04" chino="Dragón" imagen="aries.png">
+        <prediccion>
+            Hoy, tu energía y entusiasmo te impulsarán a liderar nuevos proyectos. Aprovecha las oportunidades que se te presentan y actúa con determinación. Recuerda que cada reto es una ocasión para crecer y aprender.
+        </prediccion>
+        <caracteristicas>
+            Eres valiente, decidido y apasionado. Tu capacidad para enfrentar desafíos y tu naturaleza impulsiva te hacen un líder nato, pero también es importante que mantengas el control emocional ante situaciones inesperadas.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Tauro" fecha="20/04 - 20/05" chino="Buey" imagen="tauro.png">
+        <prediccion>
+            La paciencia será tu mejor aliada en negocios y relaciones personales. Hoy, es un buen día para consolidar tus ideas y avanzar con firmeza en tus proyectos, sin precipitarte.
+        </prediccion>
+        <caracteristicas>
+            Eres práctico, leal y confiable. Tu persistencia y tu enfoque detallista te permiten alcanzar la estabilidad, aunque a veces puedas resistirte a los cambios necesarios para tu crecimiento.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Géminis" fecha="21/05 - 20/06" chino="Mono" imagen="geminis.png">
+        <prediccion>
+            La comunicación será clave para resolver malentendidos y forjar alianzas. Hoy, expresa tus ideas con claridad y escucha las de los demás, pues el diálogo será el camino hacia el éxito.
+        </prediccion>
+        <caracteristicas>
+            Eres adaptable, curioso y versátil. Tu mente ágil te permite ver las cosas desde distintos puntos de vista, aunque a veces puedas dispersarte si no enfocas tus esfuerzos.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Cáncer" fecha="21/06 - 22/07" chino="Serpiente" imagen="cancer.png">
+        <prediccion>
+            Descansa y no te sobrecargues, la empatía te ayudará a conectar con las personas que te rodean. Es un buen momento para cuidar de ti mismo y establecer límites saludables.
+        </prediccion>
+        <caracteristicas>
+            Eres emocional, protector y sensible. Tu intuición y capacidad para cuidar de los demás son tus mayores fortalezas, aunque en ocasiones tu vulnerabilidad emocional puede complicar tus decisiones.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Leo" fecha="23/07 - 22/08" chino="Caballo" imagen="leo.png">
+        <prediccion>
+            Tu carisma natural iluminará cualquier situación. Hoy, deja que tu liderazgo y creatividad marquen el camino; es el momento ideal para destacar en lo que haces y motivar a otros.
+        </prediccion>
+        <caracteristicas>
+            Eres creativo, generoso y auténtico. Tu presencia y pasión inspiran a los demás, pero recuerda equilibrar tu orgullo con humildad para aprovechar al máximo tus oportunidades.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Virgo" fecha="23/08 - 22/09" chino="Perro" imagen="virgo.png">
+        <prediccion>
+            El detalle y la organización harán la diferencia en tus tareas hoy. Es un día propicio para perfeccionar tus proyectos y pulir cada aspecto, asegurándote de que nada se quede al azar.
+        </prediccion>
+        <caracteristicas>
+            Eres meticuloso, analítico y servicial. Tu capacidad para detectar hasta el más mínimo error es admirable, aunque a veces puedas caer en la autocrítica excesiva.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Libra" fecha="23/09 - 22/10" chino="Gallo" imagen="libra.png">
+        <prediccion>
+            Buscar el equilibrio te llevará a tomar decisiones acertadas. Hoy, armoniza tus relaciones y proyectos, buscando siempre el justo medio que te permita avanzar sin conflictos.
+        </prediccion>
+        <caracteristicas>
+            Eres justo, diplomático y encantador. Tienes el don de mediar y unir a quienes te rodean, pero a veces puedes dudar de tus propias decisiones en busca de consenso.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Escorpio" fecha="23/10 - 21/11" chino="Cerdo" imagen="escorpio.png">
+        <prediccion>
+            Deja fluir tus emociones y confía en tu intuición. Hoy es un día de transformación en el que tus sentimientos pueden guiarte hacia nuevas oportunidades, siempre y cuando te permitas ser sincero contigo mismo.
+        </prediccion>
+        <caracteristicas>
+            Eres apasionado, decidido y misterioso. Tu intensidad y profundidad emocional te hacen único, aunque es fundamental aprender a canalizar esa energía para evitar conflictos innecesarios.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Sagitario" fecha="22/11 - 21/12" chino="Rata" imagen="sagitario.png">
+        <prediccion>
+            La aventura y el aprendizaje serán tus compañeros hoy. Es un buen momento para explorar nuevos horizontes y expandir tus conocimientos, sin temor a lo desconocido.
+        </prediccion>
+        <caracteristicas>
+            Eres optimista, independiente y sincero. Tu espíritu libre te impulsa a buscar siempre la verdad, aunque en ocasiones esa franqueza pueda parecer imprudente para quienes te rodean.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Capricornio" fecha="22/12 - 19/01" chino="Búfalo" imagen="capricornio.png">
+        <prediccion>
+            La perseverancia y disciplina te permitirán alcanzar tus metas. Hoy, tu enfoque y determinación serán esenciales para continuar con tus proyectos a largo plazo.
+        </prediccion>
+        <caracteristicas>
+            Eres ambicioso, responsable y práctico. Tu capacidad para organizar y trabajar con constancia te hace un pilar en cualquier equipo, aunque es importante no dejar de lado momentos de descanso.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Acuario" fecha="20/01 - 18/02" chino="Tigre" imagen="acuario.png">
+        <prediccion>
+            Hoy será un día lleno de sorpresas y oportunidades inesperadas. Abre tu mente a nuevas ideas y confía en tu capacidad de adaptación para sacar lo mejor de cada situación.
+        </prediccion>
+        <caracteristicas>
+            Eres creativo, independiente y humanitario. Tu originalidad y visión de futuro te permiten ver más allá de lo convencional, aunque a veces tu idealismo pueda chocar con la realidad.
+        </caracteristicas>
+    </signo>
+    <signo nombre="Piscis" fecha="19/02 - 20/03" chino="Conejo" imagen="piscis.png">
+        <prediccion>
+            Es un buen momento para confiar en tu intuición y tomar decisiones importantes. Hoy, escúchate a ti mismo y permite que tus sentimientos guíen tus pasos hacia nuevos comienzos.
+        </prediccion>
+        <caracteristicas>
+            Eres sensible, intuitivo y compasivo. Tu capacidad de empatizar con los demás es notable, sin embargo, es fundamental que aprendas a proteger tu propio bienestar emocional.
+        </caracteristicas>
+    </signo>
+    <!-- Sección adicional: Información del Horóscopo Chino -->
+   <horoscopoChino>
+    <animal nombre="Rata" imagen="rata.png"/>
+    <animal nombre="Buey" imagen="buey.png"/>
+    <animal nombre="Tigre" imagen="tigre.png"/>
+    <animal nombre="Conejo" imagen="conejo.png"/>
+    <animal nombre="Dragón" imagen="dragon.png"/>
+    <animal nombre="Serpiente" imagen="serpiente.png"/>
+    <animal nombre="Caballo" imagen="caballo.png"/>
+    <animal nombre="Cabra" imagen="cabra.png"/>
+    <animal nombre="Mono" imagen="mono.png"/>
+    <animal nombre="Gallo" imagen="gallo.png"/>
+    <animal nombre="Perro" imagen="perro.png"/>
+    <animal nombre="Cerdo" imagen="cerdo.png"/>
+</horoscopoChino>
+</horoscopo>
